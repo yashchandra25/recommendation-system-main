@@ -1,6 +1,6 @@
 # recommendation-system
 
-[![Open Streamlit App](https://yashchandra25-recommendation-system-main-app-aupcb5.streamlitapp.com/)
+[![Open Streamlit App]](https://yashchandra25-recommendation-system-main-app-aupcb5.streamlitapp.com/)
 
 ## Implementation of Course Recommendation System
 
