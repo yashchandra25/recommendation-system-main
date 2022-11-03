@@ -1,7 +1,7 @@
 # An online Course Recommendation System
 
 - check out my live project by clicking on link below <br>
-[![Open Streamlit App]](https://yashchandra25-recommendation-system-main-app-aupcb5.streamlitapp.com/)
+([https://yashchandra25-recommendation-system-main-app-aupcb5.streamlitapp.com/](https://yash-rec-sys.streamlit.app/))
 
 ## Implementation of Course Recommendation System
 1. Non-personalized
